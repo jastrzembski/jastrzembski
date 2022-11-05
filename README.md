@@ -1,4 +1,4 @@
-Oh, it's Readme. My own readme. Incredible. I'll make it funny with plants and mailboxes 🌱 📫 🌱 📫. Check my repos :D
+Oh, it's Readme. My own readme. Incredible. I'll make it funny with plants and mailboxes 🌱 📫 🌱 📫. Feel free to check my repos :D
 
 <!---
 jastrzembski/jastrzembski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
